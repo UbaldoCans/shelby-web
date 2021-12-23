@@ -1,0 +1,5 @@
+applications:
+ - name: shelby-web
+   random-route: true
+   memory: 64m
+   buildpack: nginx_buildpack 
